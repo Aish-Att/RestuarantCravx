@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="17" failed="5" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-31T17:17:10 IST" name="Default suite" finished-at="2022-01-31T17:23:12 IST" duration-ms="361719">
+    <groups>
+    </groups>
+    <test started-at="2022-01-31T17:17:10 IST" name="Default test" finished-at="2022-01-31T17:23:12 IST" duration-ms="361719">
+      <class name="com.restaurantcravx.qa.testcases.DashboardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:10 IST" name="setUp" finished-at="2022-01-31T17:17:19 IST" duration-ms="8807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TopBarLogo()[pri:1, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:19 IST" name="TopBarLogo" finished-at="2022-01-31T17:17:20 IST" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TopBarLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:20 IST" name="tearDown" finished-at="2022-01-31T17:17:21 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:21 IST" name="setUp" finished-at="2022-01-31T17:17:30 IST" duration-ms="9559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoRestName()[pri:2, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:30 IST" name="LogoRestName" finished-at="2022-01-31T17:17:32 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoRestName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:32 IST" name="tearDown" finished-at="2022-01-31T17:17:32 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:32 IST" name="setUp" finished-at="2022-01-31T17:17:40 IST" duration-ms="8470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoCompanyName()[pri:3, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:40 IST" name="LogoCompanyName" finished-at="2022-01-31T17:17:42 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoCompanyName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:42 IST" name="tearDown" finished-at="2022-01-31T17:17:42 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:42 IST" name="setUp" finished-at="2022-01-31T17:17:51 IST" duration-ms="8582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Welcome()[pri:4, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:51 IST" name="Welcome" finished-at="2022-01-31T17:17:52 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Welcome -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:52 IST" name="tearDown" finished-at="2022-01-31T17:17:52 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:17:52 IST" name="setUp" finished-at="2022-01-31T17:18:08 IST" duration-ms="15785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AdminName()[pri:5, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:08 IST" name="AdminName" finished-at="2022-01-31T17:18:09 IST" duration-ms="1092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:09 IST" name="tearDown" finished-at="2022-01-31T17:18:09 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:09 IST" name="setUp" finished-at="2022-01-31T17:18:19 IST" duration-ms="10015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="UserTopProfile()[pri:6, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:19 IST" name="UserTopProfile" finished-at="2022-01-31T17:18:20 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserTopProfile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:20 IST" name="tearDown" finished-at="2022-01-31T17:18:20 IST" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:20 IST" name="setUp" finished-at="2022-01-31T17:18:28 IST" duration-ms="7986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Heading()[pri:7, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:28 IST" name="Heading" finished-at="2022-01-31T17:18:31 IST" duration-ms="2835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Heading -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:31 IST" name="tearDown" finished-at="2022-01-31T17:18:32 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:32 IST" name="setUp" finished-at="2022-01-31T17:18:44 IST" duration-ms="12762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnRatingAndFeedbackPage()[pri:8, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:44 IST" name="ClickOnRatingAndFeedbackPage" finished-at="2022-01-31T17:18:47 IST" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnRatingAndFeedbackPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:47 IST" name="tearDown" finished-at="2022-01-31T17:18:47 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:47 IST" name="setUp" finished-at="2022-01-31T17:18:55 IST" duration-ms="7939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnDiscountsPage()[pri:9, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:55 IST" name="ClickOnDiscountsPage" finished-at="2022-01-31T17:18:56 IST" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnDiscountsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:56 IST" name="tearDown" finished-at="2022-01-31T17:18:57 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:18:57 IST" name="setUp" finished-at="2022-01-31T17:19:06 IST" duration-ms="8986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnTimingPage()[pri:10, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:06 IST" name="ClickOnTimingPage" finished-at="2022-01-31T17:19:08 IST" duration-ms="1798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTimingPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:08 IST" name="tearDown" finished-at="2022-01-31T17:19:08 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:08 IST" name="setUp" finished-at="2022-01-31T17:19:17 IST" duration-ms="9454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnCommunicationDetailsPage()[pri:11, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:17 IST" name="ClickOnCommunicationDetailsPage" finished-at="2022-01-31T17:19:19 IST" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnCommunicationDetailsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:19 IST" name="tearDown" finished-at="2022-01-31T17:19:19 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:19 IST" name="setUp" finished-at="2022-01-31T17:19:26 IST" duration-ms="7372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnCatalogueImagesPage()[pri:12, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:26 IST" name="ClickOnCatalogueImagesPage" finished-at="2022-01-31T17:19:28 IST" duration-ms="1554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnCatalogueImagesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:28 IST" name="tearDown" finished-at="2022-01-31T17:19:28 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:28 IST" name="setUp" finished-at="2022-01-31T17:19:35 IST" duration-ms="6819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnInfoPage()[pri:13, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:35 IST" name="ClickOnInfoPage" finished-at="2022-01-31T17:19:37 IST" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnInfoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:37 IST" name="tearDown" finished-at="2022-01-31T17:19:37 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:37 IST" name="setUp" finished-at="2022-01-31T17:19:45 IST" duration-ms="7889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnPhotoGalleryPage()[pri:14, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:45 IST" name="ClickOnPhotoGalleryPage" finished-at="2022-01-31T17:19:46 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnPhotoGalleryPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:46 IST" name="tearDown" finished-at="2022-01-31T17:19:47 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:47 IST" name="setUp" finished-at="2022-01-31T17:19:54 IST" duration-ms="7261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnProductCataloguePage()[pri:15, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:54 IST" name="ClickOnProductCataloguePage" finished-at="2022-01-31T17:19:55 IST" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnProductCataloguePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:56 IST" name="tearDown" finished-at="2022-01-31T17:19:56 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:19:56 IST" name="setUp" finished-at="2022-01-31T17:20:04 IST" duration-ms="8475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnOneToOneNotificationPage()[pri:16, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:04 IST" name="ClickOnOneToOneNotificationPage" finished-at="2022-01-31T17:20:06 IST" duration-ms="1962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnOneToOneNotificationPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:06 IST" name="tearDown" finished-at="2022-01-31T17:20:07 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:07 IST" name="setUp" finished-at="2022-01-31T17:20:15 IST" duration-ms="8480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnEventNotificationPage()[pri:17, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:15 IST" name="ClickOnEventNotificationPage" finished-at="2022-01-31T17:20:17 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnEventNotificationPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:17 IST" name="tearDown" finished-at="2022-01-31T17:20:17 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:17 IST" name="setUp" finished-at="2022-01-31T17:20:24 IST" duration-ms="7012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnPromotionalNotificationPage()[pri:18, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:24 IST" name="ClickOnPromotionalNotificationPage" finished-at="2022-01-31T17:20:45 IST" duration-ms="21498" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [51c46014c7465471fa9085c063ed8531, clickElement {id=3ba78a2c-0bad-4340-9cce-787ec0851cde}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61321/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (51c46014c7465471fa9085c063ed8531)] -> xpath: //a[@href='/Dashboard/promotionalListing']]
+Session ID: 51c46014c7465471fa9085c063ed8531]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [51c46014c7465471fa9085c063ed8531, clickElement {id=3ba78a2c-0bad-4340-9cce-787ec0851cde}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61321/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (51c46014c7465471fa9085c063ed8531)] -> xpath: //a[@href='/Dashboard/promotionalListing']]
+Session ID: 51c46014c7465471fa9085c063ed8531
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.ClickOnPromotionalNotificationPage(DashboardPageTest.java:160)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnPromotionalNotificationPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:45 IST" name="tearDown" finished-at="2022-01-31T17:20:46 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:46 IST" name="setUp" finished-at="2022-01-31T17:20:53 IST" duration-ms="7129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnStaffManagementPage()[pri:19, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:20:53 IST" name="ClickOnStaffManagementPage" finished-at="2022-01-31T17:21:13 IST" duration-ms="20136" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Staff Management"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b4f02d118d622dd859109db387564074, findElement {using=link text, value=Staff Management}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61352/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4f02d118d622dd859109db387564074]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Staff Management"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b4f02d118d622dd859109db387564074, findElement {using=link text, value=Staff Management}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61352}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61352/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b4f02d118d622dd859109db387564074
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.ClickOnStaffManagementPage(DashboardPageTest.java:165)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnStaffManagementPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:13 IST" name="tearDown" finished-at="2022-01-31T17:21:13 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:13 IST" name="setUp" finished-at="2022-01-31T17:21:21 IST" duration-ms="7588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnSubAdminManagementPage()[pri:20, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:21 IST" name="ClickOnSubAdminManagementPage" finished-at="2022-01-31T17:21:41 IST" duration-ms="20014" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Sub Admin Management"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01822eaa7ebc1c7d74064531bdd44116, findElement {using=link text, value=Sub Admin Management}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61385}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61385/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01822eaa7ebc1c7d74064531bdd44116]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Sub Admin Management"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01822eaa7ebc1c7d74064531bdd44116, findElement {using=link text, value=Sub Admin Management}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61385}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61385/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01822eaa7ebc1c7d74064531bdd44116
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.ClickOnSubAdminManagementPage(DashboardPageTest.java:170)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSubAdminManagementPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:41 IST" name="tearDown" finished-at="2022-01-31T17:21:42 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:42 IST" name="setUp" finished-at="2022-01-31T17:21:52 IST" duration-ms="10364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnAccessRoleManagementPage()[pri:21, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:21:52 IST" name="ClickOnAccessRoleManagementPage" finished-at="2022-01-31T17:22:14 IST" duration-ms="21866" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dc1690f001b5af08b49f53889bc98aae, clickElement {id=b59c9b0e-7f6b-45bb-81bc-ae4495e68f0a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61416}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61416/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (dc1690f001b5af08b49f53889bc98aae)] -> css selector: a[href='/Dashboard/accessRolesListing']]
+Session ID: dc1690f001b5af08b49f53889bc98aae]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dc1690f001b5af08b49f53889bc98aae, clickElement {id=b59c9b0e-7f6b-45bb-81bc-ae4495e68f0a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61416}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61416/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (dc1690f001b5af08b49f53889bc98aae)] -> css selector: a[href='/Dashboard/accessRolesListing']]
+Session ID: dc1690f001b5af08b49f53889bc98aae
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.ClickOnAccessRoleManagementPage(DashboardPageTest.java:175)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnAccessRoleManagementPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:22:14 IST" name="tearDown" finished-at="2022-01-31T17:22:14 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:22:14 IST" name="setUp" finished-at="2022-01-31T17:22:22 IST" duration-ms="7851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnAddTablePage()[pri:22, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:22:22 IST" name="ClickOnAddTablePage" finished-at="2022-01-31T17:22:45 IST" duration-ms="22271" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4900f4253840d047f2d8a440388b132c, clickElement {id=8be753ad-11fe-4805-a39d-ef41b899fe98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61451/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4900f4253840d047f2d8a440388b132c)] -> css selector: a[href='/Dashboard/addtable']]
+Session ID: 4900f4253840d047f2d8a440388b132c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4900f4253840d047f2d8a440388b132c, clickElement {id=8be753ad-11fe-4805-a39d-ef41b899fe98}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61451/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4900f4253840d047f2d8a440388b132c)] -> css selector: a[href='/Dashboard/addtable']]
+Session ID: 4900f4253840d047f2d8a440388b132c
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.ClickOnAddTablePage(DashboardPageTest.java:180)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnAddTablePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:22:45 IST" name="tearDown" finished-at="2022-01-31T17:22:45 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:22:45 IST" name="setUp" finished-at="2022-01-31T17:23:12 IST" duration-ms="26910" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='password']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ff09576061e2cd40724596a8694416e, findElement {using=xpath, value=//input[@id='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61484/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ff09576061e2cd40724596a8694416e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='password']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ff09576061e2cd40724596a8694416e, findElement {using=xpath, value=//input[@id='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61484/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ff09576061e2cd40724596a8694416e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.restaurantcravx.qa.pages.LoginPage.login(LoginPage.java:51)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.setUp(DashboardPageTest.java:64)
+at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:65)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:381)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:319)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:803)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:589)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ClickOnTableManagementPage()[pri:23, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:23:12 IST" name="ClickOnTableManagementPage" finished-at="2022-01-31T17:23:12 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='password']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ff09576061e2cd40724596a8694416e, findElement {using=xpath, value=//input[@id='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61484/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ff09576061e2cd40724596a8694416e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='password']"}
+  (Session info: chrome=97.0.4692.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'DESKTOP-SB1PT4F', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ff09576061e2cd40724596a8694416e, findElement {using=xpath, value=//input[@id='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Astrika\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61484}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61484/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ff09576061e2cd40724596a8694416e
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy16.sendKeys(Unknown Source)
+at com.restaurantcravx.qa.pages.LoginPage.login(LoginPage.java:51)
+at com.restaurantcravx.qa.testcases.DashboardPageTest.setUp(DashboardPageTest.java:64)
+at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:65)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:381)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:319)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:803)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:589)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTableManagementPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restaurantcravx.qa.testcases.DashboardPageTest@564fabc8]" started-at="2022-01-31T17:23:12 IST" name="tearDown" finished-at="2022-01-31T17:23:12 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restaurantcravx.qa.testcases.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
